@@ -1,2 +1,0 @@
-# Required for building wheel files
-wheel==0.37.1

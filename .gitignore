@@ -1,10 +1,6 @@
-build/
-/demo/BERT/models
-/demo/BERT/engines
-/demo/BERT/squad/*.json
-/docker/jetpack_files/*
-*.nvmk
-*.sln
-*.vcxproj
-externals/
-**/.DS_Store
+__pycache__/
+cache.lock
+output/
+onnx-ckpt/
+pytorch_model/
+trt-engine/
