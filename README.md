@@ -6,17 +6,15 @@ refs:
 
 my fork is an attempt to run natively on windows with 9gb vram by disable refiner
 
-only a proof-of-concept, no plan to maintain this
+only a proof-of-concept, no plan to maintain this repo
+- for A1111 use https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT
+- for ComfyUI try my attempt https://github.com/phineas-pta/comfy-trt-test
 
 i know jack shit how to convert custom models, watch this repo for update: https://github.com/Amblyopius/Stable-Diffusion-ONNX-FP16
 
 ## License
 
 ![LICENSE](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)
-
-## Benchmark
-
-to be added: normal pytorch (comyfui) vs tensorrt
 
 ## 1️⃣ prepare environment
 
